@@ -1,5 +1,5 @@
 {
-  "name": "teamjc/ticketevolution-php3",
+  "name": "sonnygauran/ticketevolution-php",
   "description": "A PHP 5.4+ library for the Ticket Evolution API.",
   "type": "library",
   "keywords": [
@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=5.4",
-    "guzzlehttp/guzzle-services": "~0.5"
+    "guzzlehttp/guzzle-services": "^6.0"
   },
   "autoload": {
     "psr-4": {
